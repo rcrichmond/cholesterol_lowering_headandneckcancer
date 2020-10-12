@@ -1,0 +1,11 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","4bR9XM","At7QtJ","outcome","HMGCR","MR Egger",2.72555376913558,3,0.435902151770265
+"2","4bR9XM","At7QtJ","outcome","HMGCR","Inverse variance weighted",2.74782793422991,4,0.600871660077093
+"3","56iCmO","At7QtJ","outcome","LDLR","MR Egger",1.18233513233967,1,0.276881121274033
+"4","56iCmO","At7QtJ","outcome","LDLR","Inverse variance weighted",2.32597302013327,2,0.312551347886558
+"5","8WzrD5","At7QtJ","outcome","CETP","MR Egger",1.92323897415941,4,0.749874750229858
+"6","8WzrD5","At7QtJ","outcome","CETP","Inverse variance weighted",1.98793837811517,5,0.850811463693345
+"7","A1eL1U","At7QtJ","outcome","PCSK9","MR Egger",4.60117098907292,4,0.33071919431214
+"8","A1eL1U","At7QtJ","outcome","PCSK9","Inverse variance weighted",4.61138336762368,5,0.465120422450706
+"9","F5jola","At7QtJ","outcome","NPC1L1","MR Egger",0.519224385737366,3,0.914648048187366
+"10","F5jola","At7QtJ","outcome","NPC1L1","Inverse variance weighted",0.764894094778108,4,0.943091570284178

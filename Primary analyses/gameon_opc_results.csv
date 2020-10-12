@@ -1,0 +1,26 @@
+,mr_results_hnc$outcome,mr_results_hnc$exposure,mr_results_hnc$nsnp,mr_results_hnc$method,mr_results_hnc$b,mr_results_hnc$se,mr_results_hnc$or,mr_results_hnc$cil,mr_results_hnc$ciu,mr_results_hnc$pval
+1,outcome,LDLR,3,MR Egger,0.44740567,0.455465784,1.56,0.64,3.82,0.51
+2,outcome,LDLR,3,Weighted median,-0.091994611,0.262630067,0.91,0.55,1.53,0.73
+3,outcome,LDLR,3,Inverse variance weighted,-0.107282224,0.267699171,0.90,0.53,1.52,0.69
+4,outcome,LDLR,3,Simple mode,-0.787509523,0.565691534,0.45,0.15,1.38,0.30
+5,outcome,LDLR,3,Weighted mode,0.076863697,0.284754745,1.08,0.62,1.89,0.81
+6,outcome,NPC1L1,5,MR Egger,-1.632710327,4.16712944,0.20,0.00,688.74,0.72
+7,outcome,NPC1L1,5,Weighted median,-0.515128703,0.829292897,0.60,0.12,3.04,0.53
+8,outcome,NPC1L1,5,Inverse variance weighted,-0.51080527,0.675183894,0.60,0.16,2.25,0.45
+9,outcome,NPC1L1,5,Simple mode,-0.378820511,1.018909553,0.68,0.09,5.04,0.73
+10,outcome,NPC1L1,5,Weighted mode,-0.505895684,0.930251177,0.60,0.10,3.73,0.62
+11,outcome,PCSK9,6,MR Egger,0.687168249,1.957103898,1.99,0.04,92.12,0.74
+12,outcome,PCSK9,6,Weighted median,1.159374725,0.419558338,3.19,1.40,7.26,0.01
+13,outcome,PCSK9,6,Inverse variance weighted,1.248986239,0.402931652,3.49,1.58,7.68,0.00
+14,outcome,PCSK9,6,Simple mode,1.00376586,0.672032201,2.73,0.73,10.19,0.20
+15,outcome,PCSK9,6,Weighted mode,1.00376586,0.591335948,2.73,0.86,8.70,0.15
+16,outcome,CETP,6,MR Egger,0.402962869,2.3236715,1.50,0.02,142.22,0.87
+17,outcome,CETP,6,Weighted median,0.049940232,0.567411108,1.05,0.35,3.20,0.93
+18,outcome,CETP,6,Inverse variance weighted,0.108924101,0.463512516,1.12,0.45,2.77,0.81
+19,outcome,CETP,6,Simple mode,-0.256171434,0.838969507,0.77,0.15,4.01,0.77
+20,outcome,CETP,6,Weighted mode,-0.311343486,0.731658761,0.73,0.17,3.07,0.69
+21,outcome,HMGCR,5,MR Egger,-0.262727087,2.077000764,0.77,0.01,45.07,0.91
+22,outcome,HMGCR,5,Weighted median,0.005649167,0.431362458,1.01,0.43,2.34,0.99
+23,outcome,HMGCR,5,Inverse variance weighted,-0.108747712,0.369329014,0.90,0.43,1.85,0.77
+24,outcome,HMGCR,5,Simple mode,0.156531096,0.550724276,1.17,0.40,3.44,0.79
+25,outcome,HMGCR,5,Weighted mode,0.074475769,0.457674376,1.08,0.44,2.64,0.88

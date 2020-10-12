@@ -1,0 +1,26 @@
+,mr_results_hnc$outcome,mr_results_hnc$exposure,mr_results_hnc$nsnp,mr_results_hnc$method,mr_results_hnc$b,mr_results_hnc$se,mr_results_hnc$or,mr_results_hnc$cil,mr_results_hnc$ciu,mr_results_hnc$pval
+1,outcome,HMGCR,5,MR Egger,0.287328312,1.527040083,1.33,0.07,26.58,0.86
+2,outcome,HMGCR,5,Weighted median,0.180275532,0.328331663,1.2,0.63,2.28,0.58
+3,outcome,HMGCR,5,Inverse variance weighted,0.063277001,0.279579524,1.07,0.62,1.84,0.82
+4,outcome,HMGCR,5,Simple mode,0.132974564,0.387283392,1.14,0.53,2.44,0.75
+5,outcome,HMGCR,5,Weighted mode,0.179243108,0.376504114,1.2,0.57,2.5,0.66
+6,outcome,LDLR,3,MR Egger,-0.107833408,0.394582793,0.9,0.41,1.95,0.83
+7,outcome,LDLR,3,Weighted median,-0.341318855,0.211068514,0.71,0.47,1.08,0.11
+8,outcome,LDLR,3,Inverse variance weighted,-0.4282351,0.220802198,0.65,0.42,1,0.05
+9,outcome,LDLR,3,Simple mode,-0.388794041,0.357967705,0.68,0.34,1.37,0.39
+10,outcome,LDLR,3,Weighted mode,-0.305352907,0.228173924,0.74,0.47,1.15,0.31
+11,outcome,CETP,6,MR Egger,-0.20227918,1.795950998,0.82,0.02,27.6,0.92
+12,outcome,CETP,6,Weighted median,0.211156138,0.418636676,1.24,0.54,2.81,0.61
+13,outcome,CETP,6,Inverse variance weighted,0.245639841,0.352791232,1.28,0.64,2.55,0.49
+14,outcome,CETP,6,Simple mode,0.107706448,0.626889829,1.11,0.33,3.81,0.87
+15,outcome,CETP,6,Weighted mode,0.219278863,0.547300359,1.25,0.43,3.64,0.71
+16,outcome,PCSK9,6,MR Egger,0.605468529,1.21956612,1.83,0.17,20,0.65
+17,outcome,PCSK9,6,Weighted median,0.79320719,0.312199325,2.21,1.2,4.08,0.01
+18,outcome,PCSK9,6,Inverse variance weighted,0.717434,0.255842297,2.05,1.24,3.38,0.01
+19,outcome,PCSK9,6,Simple mode,0.834224889,0.487796934,2.3,0.89,5.99,0.15
+20,outcome,PCSK9,6,Weighted mode,0.78469154,0.506896837,2.19,0.81,5.92,0.18
+21,outcome,NPC1L1,5,MR Egger,-1.527923894,3.141341975,0.22,0,102.42,0.66
+22,outcome,NPC1L1,5,Weighted median,-0.106187622,0.583473281,0.9,0.29,2.82,0.86
+23,outcome,NPC1L1,5,Inverse variance weighted,0.009166541,0.500860092,1.01,0.38,2.69,0.99
+24,outcome,NPC1L1,5,Simple mode,-0.136559657,0.800036277,0.87,0.18,4.19,0.87
+25,outcome,NPC1L1,5,Weighted mode,-0.152671889,0.651588149,0.86,0.24,3.08,0.83

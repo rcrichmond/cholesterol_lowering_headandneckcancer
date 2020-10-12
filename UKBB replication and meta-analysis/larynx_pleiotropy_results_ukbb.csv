@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"1","JrPx2h","m615jM","UK Biobank laryngeal cancer","CETP",0.00799478364240612,0.198834571852247,0.969231666967799
+"2","nu1lX1","m615jM","UK Biobank laryngeal cancer","NPC1L1",-0.0899644613847645,0.325660655924625,0.800292543156503
+"3","RV8V41","m615jM","UK Biobank laryngeal cancer","LDLR",-0.12128752842043,0.103478256058457,0.449662724514945
+"4","tZq2Rc","m615jM","UK Biobank laryngeal cancer","PCSK9",0.110826543508114,0.213478778880305,0.625811774519567
+"5","wSAeB2","m615jM","UK Biobank laryngeal cancer","HMGCR",-0.0656660880087989,0.251917257647156,0.807219932748211

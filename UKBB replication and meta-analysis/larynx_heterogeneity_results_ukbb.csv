@@ -1,0 +1,11 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","JrPx2h","m615jM","UK Biobank laryngeal cancer","CETP","MR Egger",6.77618595261727,6,0.34204235364279
+"2","JrPx2h","m615jM","UK Biobank laryngeal cancer","CETP","Inverse variance weighted",6.77801179674275,7,0.452353541375604
+"3","nu1lX1","m615jM","UK Biobank laryngeal cancer","NPC1L1","MR Egger",0.278698517777199,3,0.963983630866039
+"4","nu1lX1","m615jM","UK Biobank laryngeal cancer","NPC1L1","Inverse variance weighted",0.355013776665392,4,0.985991552877756
+"5","RV8V41","m615jM","UK Biobank laryngeal cancer","LDLR","MR Egger",0.865340786836337,1,0.352248413490085
+"6","RV8V41","m615jM","UK Biobank laryngeal cancer","LDLR","Inverse variance weighted",2.23917425035475,2,0.326414535148941
+"7","tZq2Rc","m615jM","UK Biobank laryngeal cancer","PCSK9","MR Egger",7.07555498152428,5,0.215081564621253
+"8","tZq2Rc","m615jM","UK Biobank laryngeal cancer","PCSK9","Inverse variance weighted",7.45694442056213,6,0.280646162402184
+"9","wSAeB2","m615jM","UK Biobank laryngeal cancer","HMGCR","MR Egger",0.51537090414701,4,0.971987472326863
+"10","wSAeB2","m615jM","UK Biobank laryngeal cancer","HMGCR","Inverse variance weighted",0.583317303741726,5,0.988754319202074

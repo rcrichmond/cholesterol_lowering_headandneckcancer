@@ -1,0 +1,11 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","FVzsrn","S6Qog1","UK Biobank oropharyngeal cancer","PCSK9","MR Egger",1.09203000878075,5,0.95480670658355
+"2","FVzsrn","S6Qog1","UK Biobank oropharyngeal cancer","PCSK9","Inverse variance weighted",2.43892238998443,6,0.875239621405386
+"3","IerR7p","S6Qog1","UK Biobank oropharyngeal cancer","NPC1L1","MR Egger",3.38893226744607,3,0.335455487270944
+"4","IerR7p","S6Qog1","UK Biobank oropharyngeal cancer","NPC1L1","Inverse variance weighted",3.47083225487313,4,0.482327201398216
+"5","SsKOnD","S6Qog1","UK Biobank oropharyngeal cancer","HMGCR","MR Egger",0.864735796771799,4,0.929564622255168
+"6","SsKOnD","S6Qog1","UK Biobank oropharyngeal cancer","HMGCR","Inverse variance weighted",0.896536568051151,5,0.970471873368951
+"7","Zb9afg","S6Qog1","UK Biobank oropharyngeal cancer","CETP","MR Egger",0.598932809724683,6,0.996418268296892
+"8","Zb9afg","S6Qog1","UK Biobank oropharyngeal cancer","CETP","Inverse variance weighted",0.775494360725753,7,0.997686072351509
+"9","ZX4fmm","S6Qog1","UK Biobank oropharyngeal cancer","LDLR","MR Egger",0.210655825121382,1,0.646253859975539
+"10","ZX4fmm","S6Qog1","UK Biobank oropharyngeal cancer","LDLR","Inverse variance weighted",0.555050495004535,2,0.757656435428922

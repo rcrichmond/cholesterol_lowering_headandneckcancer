@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"1","1d3qRO","ojwwbg","UK Biobank Oral and Oropharyngeal Cancer","PCSK9",-0.103698671900345,0.102449174005105,0.357891551101555
+"2","BXr0AZ","ojwwbg","UK Biobank Oral and Oropharyngeal Cancer","NPC1L1",-0.122078176373919,0.343023961390345,0.745479152453688
+"3","DHssei","ojwwbg","UK Biobank Oral and Oropharyngeal Cancer","CETP",0.0425833855895764,0.106812171391494,0.703933220480358
+"4","fF1czi","ojwwbg","UK Biobank Oral and Oropharyngeal Cancer","HMGCR",0.0962915220072302,0.143802282125648,0.539774992109993
+"5","Jm4sXl","ojwwbg","UK Biobank Oral and Oropharyngeal Cancer","LDLR",0.0111191677914353,0.0590714603715169,0.881553412623345

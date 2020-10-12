@@ -1,0 +1,11 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","6rt0yh","ZGCsAt","UK Biobank Oral Cancer","LDLR","MR Egger",0.0451579424029278,1,0.831713871469693
+"2","6rt0yh","ZGCsAt","UK Biobank Oral Cancer","LDLR","Inverse variance weighted",1.32858468026078,2,0.514637587244161
+"3","cx8FFm","ZGCsAt","UK Biobank Oral Cancer","CETP","MR Egger",2.41036015661621,6,0.878361812932913
+"4","cx8FFm","ZGCsAt","UK Biobank Oral Cancer","CETP","Inverse variance weighted",2.41126947854156,7,0.933629064298133
+"5","r6FySU","ZGCsAt","UK Biobank Oral Cancer","HMGCR","MR Egger",0.69616719153395,4,0.951800742175253
+"6","r6FySU","ZGCsAt","UK Biobank Oral Cancer","HMGCR","Inverse variance weighted",1.92231597183457,5,0.859786330128092
+"7","wNpvB4","ZGCsAt","UK Biobank Oral Cancer","NPC1L1","MR Egger",8.06219782219986,3,0.044743602389539
+"8","wNpvB4","ZGCsAt","UK Biobank Oral Cancer","NPC1L1","Inverse variance weighted",9.90345378557127,4,0.0420857750050352
+"9","ZbmyjK","ZGCsAt","UK Biobank Oral Cancer","PCSK9","MR Egger",4.9551255502068,5,0.421381270977829
+"10","ZbmyjK","ZGCsAt","UK Biobank Oral Cancer","PCSK9","Inverse variance weighted",4.95552877927087,6,0.549529447227246

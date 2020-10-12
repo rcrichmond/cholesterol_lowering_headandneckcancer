@@ -1,0 +1,6 @@
+﻿,mr_results_hnc$outcome,mr_results_hnc$exposure,mr_results_hnc$nsnp,mr_results_hnc$method,mr_results_hnc$b,mr_results_hnc$se,mr_results_hnc$pval,mr_results_hnc$or,mr_results_hnc$cil,mr_results_hnc$ciu
+1,UK Biobank Oral and Oropharyngeal Cancer,PCSK9,7,MR Egger,-1.896809739,2.069543955,0.401431473,0.150046544,0.002597734,8.666772087
+2,UK Biobank Oral and Oropharyngeal Cancer,PCSK9,7,Weighted median,0.042246479,0.534663283,0.937020603,1.043151562,0.36579085,2.97482887
+3,UK Biobank Oral and Oropharyngeal Cancer,PCSK9,7,Inverse variance weighted,0.15290156,0.427003241,0.720283027,1.165210269,0.504582062,2.690771383
+4,UK Biobank Oral and Oropharyngeal Cancer,PCSK9,7,Simple mode,0.041631734,0.790505373,0.959708709,1.042510486,0.221405637,4.90876442
+5,UK Biobank Oral and Oropharyngeal Cancer,PCSK9,7,Weighted mode,0.048739152,0.749957285,0.950293794,1.049946439,0.241429656,4.566081651

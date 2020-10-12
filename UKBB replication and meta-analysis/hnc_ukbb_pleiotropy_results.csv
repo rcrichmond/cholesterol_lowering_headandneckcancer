@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"1","50mU63","7hTnWN","UK Biobank head and neck cancer","LDLR",-0.023016972982023,0.0514555637594441,0.73222441824234
+"2","5EhE26","7hTnWN","UK Biobank head and neck cancer","HMGCR",0.0430075629939034,0.125260266801955,0.748625404650199
+"3","oxTk04","7hTnWN","UK Biobank head and neck cancer","CETP",0.027002698633523,0.0930388134077965,0.781409589934306
+"4","tblvrb","7hTnWN","UK Biobank head and neck cancer","PCSK9",-0.0417177816756899,0.0892368369059594,0.65981206631036
+"5","UsuqVr","7hTnWN","UK Biobank head and neck cancer","NPC1L1",-0.101824293453177,0.26583073772971,0.727218521757561

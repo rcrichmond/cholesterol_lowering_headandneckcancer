@@ -1,0 +1,6 @@
+﻿,mr_results_hnc$outcome,mr_results_hnc$exposure,mr_results_hnc$nsnp,mr_results_hnc$method,mr_results_hnc$b,mr_results_hnc$se,mr_results_hnc$or,mr_results_hnc$cil,mr_results_hnc$ciu,mr_results_hnc$pval
+6,GAME-ON Oral and Oropharyngeal Cancer ,LDLR,3,MR Egger,-0.107833408,0.394582793,0.9,0.41,1.95,0.83
+7,GAME-ON Oral and Oropharyngeal Cancer ,LDLR,3,Weighted median,-0.341318855,0.211068514,0.71,0.47,1.08,0.11
+8,GAME-ON Oral and Oropharyngeal Cancer ,LDLR,3,Inverse variance weighted,-0.4282351,0.220802198,0.65,0.42,1,0.05
+9,GAME-ON Oral and Oropharyngeal Cancer ,LDLR,3,Simple mode,-0.388794041,0.357967705,0.68,0.34,1.37,0.39
+10,GAME-ON Oral and Oropharyngeal Cancer ,LDLR,3,Weighted mode,-0.305352907,0.228173924,0.74,0.47,1.15,0.31

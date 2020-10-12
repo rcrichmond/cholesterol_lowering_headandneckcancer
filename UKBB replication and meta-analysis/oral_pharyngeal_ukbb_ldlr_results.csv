@@ -1,0 +1,6 @@
+﻿,mr_results_hnc$outcome,mr_results_hnc$exposure,mr_results_hnc$nsnp,mr_results_hnc$method,mr_results_hnc$b,mr_results_hnc$se,mr_results_hnc$pval,mr_results_hnc$or,mr_results_hnc$cil,mr_results_hnc$ciu
+21,UK Biobank Oral and Oropharyngeal Cancer,LDLR,3,MR Egger,0.009755653,0.666163343,0.990677665,1.009803394,0.273644763,3.726374603
+22,UK Biobank Oral and Oropharyngeal Cancer,LDLR,3,Weighted median,-0.071034857,0.390080959,0.855502007,0.931429425,0.433617038,2.000753426
+23,UK Biobank Oral and Oropharyngeal Cancer,LDLR,3,Inverse variance weighted,-0.093936686,0.374582021,0.801986256,0.910340398,0.436870946,1.896943818
+24,UK Biobank Oral and Oropharyngeal Cancer,LDLR,3,Simple mode,-0.09219961,0.540911187,0.880337984,0.911923103,0.315882321,2.63263782
+25,UK Biobank Oral and Oropharyngeal Cancer,LDLR,3,Weighted mode,-0.056915766,0.421994442,0.90506098,0.94467364,0.413116818,2.160183865
